@@ -1,0 +1,12 @@
+.container-fluid {
+	border:1px solid #dedede;
+	border-radius:5px;
+}
+
+.active.row {
+	display:flex;
+	flex-wrap: wrap;
+}
+.col,.card{
+	margin-top:10px;
+}
